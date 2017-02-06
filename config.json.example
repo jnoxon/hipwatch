@@ -1,0 +1,7 @@
+{
+  "token": "your_hipchat_api_v2_token",
+  "statefile": "state.json",
+  "notify": [
+    "your_hipchat_numeric_user_id"
+  ]
+}
